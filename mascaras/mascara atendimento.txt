@@ -1,0 +1,173 @@
+**BOLETO**
+
+Detalhe: Cliente entrou em contato pelo plataforma chat/voz, solicitando boleto
+
+Solução: Boleto referente a 14/04, enviado via e-mail-chat-whatsapp
+Orientado o pagamento com pix e acesso a central do assinante
+
+**DESBLOQUEIO**
+
+Detalhe: Cliente entrou em contato solicitando o desbloqueio
+
+Solução: Primeiro/Segundo desbloqueio. Comprovante recebido.
+Ciente do prazo de 48h e que o segundo desbloqueio só será possível mediante envio do comprovante de pagamento.
+Boleto referente ao vencimento 11/04 realizado
+
+**DÚVIDA**
+
+Detalhe 1: Cliente entrou em contato para saber informações sobre o contrato
+
+Detalhe 2: Cliente entrou em contato para saber sobre a visita técnica
+
+Solução 1: Informado sobre o prazo da fidelidade, dia de vencimento do boleto e valor da mensalidade
+
+Solução 2: Informado dia e perído (21/04/2023 no período da tarde) da realização da visita 
+
+
+**COMPROVANTE DE PAGAMENTO**
+
+Detalhe: Cliente enviou o comprovante de pagamento
+
+Solução: Comprovante ref ao vencimento 14/04 recebido
+
+
+**UPGRADE/DOWNGRADE (abrir no fluxo de renovação)
+
+Detalhe: Cliente solicitou alteração do seu plano
+
+Solução: Contrato renovado para o plano de 300MB, pagando R$79,90.
+Data de vencimento: 14 (de acordo com a solicitação)
+Ciente da fidelidade
+
+Obs.: Em caso de downgrade com renovação, cliente tem a isenção de multa.
+A multa do downgrade, é a metade do valor da multa da rescisão contratual
+
+**ALTERAÇÃO DO TIPO DE PAGAMENTO**
+
+Detalhe: Cliente solicitou alteração do tipo de pagamento de cartão para boleto
+
+Solução: Tipo de pagamento alterado.
+Cliente ciente que a alteração só vai ocorrer no mês seguinte.
+
+**SUSPENSÃO DE CONTRATO/ATIVAÇÃO**
+
+Detalhe 1: Cliente pediu a suspensão do contrato
+
+Detalhe 2: Cliente com contrato cancelado, pede reativação
+
+Solução 1: Informado que só poderá realizar a cada 12 meses
+Ciente dos prazos (30, 60, 90 e 120 dias) e do proporcional de uso
+Suspenso por 30 dias 
+OBS: verificar se não tem pendências. Se tiver carnê lançado, abrir intervenção e solicitar estorno
+
+Solução 2: Contrato reativado após baixa dos boletos negociados
+OBS.: (fechar a o.s. de retirada de equipamento e vincular o equipamento no sistema)
+Se o cliente não autenticar, enviado para o nível 2, pois o equipamento vai está desprovisionado.
+
+**SVAs**
+
+Detalhe: Cliente solicita a chave Deezer/HBO/LOOKE
+
+Solução: Ciente do prazo e de como realizar o acesso.
+Deezer: recebimento do SMS
+LOOKE e HBO: Envio do e-mail com o manual
+
+**INDICAÇÃO DE AMIGO**
+
+Detalhe: Cliente entrou em contato e solicitou o desconto indique um amigo
+
+Solução: Amigo indicado: (Código do cliente, nome completo)
+Instalado:
+OBS.: abrir atendimento também do amigo indicado e informar o nome do amigo que indicou 
+
+**TROCA DE TITULARIDADE**
+
+Detalhe: Cliente solicitou troca de titularidade
+
+Solução: Documentos anexados
+Cliente do prazo de 72h úteis
+Novo titular:
+Telefone: 
+E-mail:
+
+**MUDANÇA DE ENDEREÇO**
+
+Detalhe: Cliente deseja realizar a mudança de endereço
+Endereço Antigo: 
+Endereço Novo: 
+
+Solução: Solicitado que levasse o equipamento para o novo endereço
+1ª ou 2ª Mudança
+Ciente da taxa (74,95):
+Telefone:
+OBS: verificar se não tem pendências 
+
+**MUDANÇA DE LOCAL**
+
+Detalhe: Cliente deseja realizar a mudança de local 
+
+Solução: Cliente deseja tirar o equipamento da sala e colocar no quarto
+Ciente da taxa (R$99,90):
+Telefone: 
+
+@@INTERVENÇÕES@@
+(o prazo para todos os atendimento, são de 48h)
+
+**ALTERAÇÃO DO VENCIMENTO**
+
+Detalhe: Cliente solicita alteração da data de vencimento. 
+
+Solução: Alterar o vencimento para nova data 07/10/14/25.
+Cliente ciente que a alteração só vai ocorrer no mês seguinte.
+
+**INVERSÃO DE PAGAMENTO**
+
+Detalhe: Cliente pagou o boleto de Maio ao invés do de Abril
+
+Solução: Realizar a inversão do pagamento.
+Cliente ciente do prazo 
+
+**ESTORNO**
+(Em casos de desconto sem conexão, informar os dias que o cliente perdeu o acesso e o mês de ref.)
+
+Detalhe 1: Cliente informa que o boleto está divergente com o valor do contrato
+
+Detalhe 2: Cliente informa que foi concedido o desconto no boleto, porém não foi aplicado.
+
+Solução 1: Estornar boleto e corrigir o valor do contrato 
+Está sendo cobrado R$149,90, quando deveria estar no valor de R$79,90 
+
+Solução 2: Estornar boleto do mês de Maio e corrigir com o valor com desconto ofertado de 50% ou referente a 5 dias sem conexão
+vencimento 14/03/2023
+valor: R$79,90
+
+**NOTA FISCAL**
+
+Detalhe: Cliente deseja a NF do mês de Maio
+
+Solução: Verificado na central do assinante e não consta no sistema
+e-mail:
+Cliente ciente do prazo de 5 dias úteis para lançamento e envio da nota
+
+**NEGOCIAÇÃO**
+
+Detalhe: Cliente entrou em contato solicitando negociação dos boletos em aberto (Permitido apenas para boletos a partir de 30 dias de atraso).
+
+Solução: Negociar boletos com vencimentos: 14/02 e 14/03
+Telefone: 
+
+**DUPLICIDADE DE PAGAMENTO**
+
+Detalhe: Cliente pagou duas vezes o boleto com vendimento 14/02
+
+Solução 1: Comprovantes anexados no sistema
+Cliente deseja que o próximo boleto seja liquidado.
+
+Solução 2: Comprovantes anexados no sistema
+Cliente deseja que o valor seja estornado
+Nome Completo:
+CPF:
+Banco:
+Conta:
+Op.:
+

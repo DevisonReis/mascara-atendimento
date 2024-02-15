@@ -1,0 +1,64 @@
+MÁSCARA DE ST Nv1
+(PADRÃO DE RELATO - ATENDIMENTO SUPORTE TÉCNICO NÍVEL 1)
+
+SEM AUTENTICAÇÃO
+PROBLEMA: 
+SINAL: 
+REDE WIFI DISPONÍVEL? 
+REQUISIÇÃO DE AUTENTICAÇÃO: 
+MODELO e SN da ONU/Roteador:
+TOPOLOGIA:
+TELs de CONTATO: 
+
+LENTIDÃO/OSCILAÇÃO
+PROBLEMA: 
+via CABO ou WIFI:
+UPTIME: 
+SINAL: 
+DNS PADRÃO: 
+MODELO e SN da ONU/Roteador:
+POSSUI COMPUTADOR/NOTEBOOK:
+QUANTOS DISPOSITIVOS NA RESIDÊNCIA:
+RELATO: 
+
+COBRANÇA DE O.S.
+TIPO DA O.S.:
+DENTRO DO PRAZO: 
+SOLICITADA ANTECIPAÇÃO ou COBRADA O.S.? 
+TELs de CONTATO: 
+
+TROCA DE SENHA
+REDE ANTIGA: 
+SENHA ANTIGA: 
+REDE NOVA: 
+SENHA NOVA: 
+DNS PADRÃO: 
+CLIENTE CONSEGUIU CONECTAR A WIFI? 
+TELs de CONTATO: 
+
+LIBERAÇÃO DE PORTAS
+MOTIVO: 
+ACESSO REMOTO VIA IP? 
+POSSUI PC? 
+TELs de CONTATO: 
+
+UPGRADE
+MODELO e SN da ONU: 
+BARRAMENTO: (/100 ou /1000)
+
+TESTE DE VELOCIDADE
+DOWN e UPLOAD:
+via CABO ou WIFI:
+SINAL: 
+MODELO e SN da ONU/Roteador:
+RELATO: 
+
+VALIDAÇÕES:
+    • Sempre via cabo ou 5.8GHz quando wifi;
+    • APENAS UM APARELHO CONECTADO;
+    • ALTERAR CANAL E LARGURA PRA 80MHz;
+    • Testar após reiniciar a ONU;
+
+Observações gerais:
+    • Adicionar relato do agente e do cliente em TODOS os atendimentos
+    • Caso alguma informação não seja localizada registrar no campo em branco os “locais pesquisados” 
